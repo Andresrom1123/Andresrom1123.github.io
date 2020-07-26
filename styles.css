@@ -8,7 +8,7 @@
 body{
   font-family: 'Josefin Sans', sans-serif;
 }
-.text-center{
+.-text-center{
   text-align: center;
 }
 .border-bottom{
@@ -16,6 +16,9 @@ body{
 }
 .verde{
   color: rgba(56, 234, 118, .8);
+}
+.-mb{
+  margin-bottom: 1rem;
 }
 
 /* banner */
@@ -149,11 +152,6 @@ header a{
   font-weight: 300;
   color: rgba(30, 56, 40);
 }
-.row{
-  display: flex;
-/*   justify-content: center; */
-  flex-wrap: wrap;
-}
 .column{
   padding: 40px 0 0px 0;
   display: flex;
@@ -268,6 +266,10 @@ form img{
   height: 60px;
 /*   border: solid; */
 /*   overflow: hidden; */
+}
+
+.-ico{
+  font-size: 4rem;
 }
 
 /* Redes sociales */
