@@ -55,7 +55,7 @@ new Vue({
         codigo: 'Html - Css',
         title: 'Banner Netflix La Casa de Papel',
         description: 'Practica de un Banner de Netflix',
-        url: 'https://cdpn.io/AndresRomero/debug/zgEMxj/WPMLYZXmazGr',
+        url: 'https://wizardly-easley-4a0880.netlify.app/',
         image: '/imagenes/banner-casa-de-papel.png',
       }
     ],
